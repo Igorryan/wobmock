@@ -1,0 +1,72 @@
+{
+    "professionals": [
+        {
+            "name": "Marcos Brito",
+            "img": "https://images.unsplash.com/photo-1545167622-3a6ac756afa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1012&q=80",
+            "kind": "Pintor",
+            "ratingDetails": {
+                "note": 4.7,
+                "quantity": 1837
+            },
+            "region": {
+                "latitude": -19.4600679,
+                "longitude": -44.2447987,
+                "distance": 2.5
+            },
+            "wobs": {
+                "quantity": 458
+            }
+        },
+        {
+            "name": "Emanuel Castro",
+            "img": "https://images.unsplash.com/photo-1615813967515-e1838c1c5116?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+            "kind": "Pintor",
+            "ratingDetails": {
+                "note": 5,
+                "quantity": 728
+            },
+            "region": {
+                "latitude": -19.446985,
+                "longitude": -44.246403,
+                "distance": 3.2
+            },
+            "wobs": {
+                "quantity": 1.288
+            }
+        },
+        {
+            "name": "Miguel Rocha",
+            "img": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+            "kind": "Pintor",
+            "ratingDetails": {
+                "note": 4.4,
+                "quantity": 129
+            },
+            "region": {
+                "latitude": -19.4551345,
+                "longitude": -44.2499637,
+                "distance": 4
+            },
+            "wobs": {
+                "quantity": 562
+            }
+        },
+        {
+            "name": "Diego Fernandes",
+            "img": "https://images.unsplash.com/photo-1543984613-f55ca6a1ba35?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "kind": "Pintor",
+            "ratingDetails": {
+                "note": 4.9,
+                "quantity": 813
+            },
+            "region": {
+                "latitude": -19.461029,
+                "longitude": -44.233929,
+                "distance": 5.9
+            },
+            "wobs": {
+                "quantity": 221
+            }
+        }
+    ]
+}
