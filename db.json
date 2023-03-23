@@ -79,47 +79,45 @@
                     "price": 135
                 }
             ],
-            "rating": [
-                {
-                    "note": 4.4,
-                    "amount": 129,
-                    "assessments": [
-                        {
-                            "id": "826df6fc-8809-473f-99ff-f2d064cb45d7",
-                            "user": {
-                                "id": "635d2d5c-c383-41d8-b403-b11c84d6e3e0",
-                                "name": "Renata Souza",
-                                "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-                            },
-                            "note": 5,
-                            "comment": "Me atendeu super bem, fez o serviço como eu estava esperando, favoritei este profissional.",
-                            "date": "2023-10-20T08:43:00.000Z"
+            "rating": {
+                "note": 4.4,
+                "amount": 129,
+                "assessments": [
+                    {
+                        "id": "826df6fc-8809-473f-99ff-f2d064cb45d7",
+                        "user": {
+                            "id": "635d2d5c-c383-41d8-b403-b11c84d6e3e0",
+                            "name": "Renata Souza",
+                            "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                         },
-                        {
-                            "id": "cad28826-8196-43c7-ab37-0db891a0843c",
-                            "user": {
-                                "id": "c3411cf2-0448-44f0-9337-d79e472b7baa",
-                                "name": "Rodrigo Marinho",
-                                "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-                            },
-                            "note": 4,
-                            "comment": "Gostei",
-                            "date": "2023-09-12T16:43:00.000Z"
+                        "note": 5,
+                        "comment": "Me atendeu super bem, fez o serviço como eu estava esperando, favoritei este profissional.",
+                        "date": "2023-10-20T08:43:00.000Z"
+                    },
+                    {
+                        "id": "cad28826-8196-43c7-ab37-0db891a0843c",
+                        "user": {
+                            "id": "c3411cf2-0448-44f0-9337-d79e472b7baa",
+                            "name": "Rodrigo Marinho",
+                            "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
                         },
-                        {
-                            "id": "088aa9cd-63d0-4e37-b574-26087522da74",
-                            "user": {
-                                "id": "c5b5ca56-2855-4350-b366-33feb0d69d0c",
-                                "name": "Mariana Malta",
-                                "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80"
-                            },
-                            "note": 4,
-                            "comment": "A Jess é sempre maravilhosa, minhas unhas ficaram impecáveis",
-                            "date": "2023-09-15T11:21:00.000Z"
-                        }
-                    ]
-                }
-            ]
+                        "note": 4,
+                        "comment": "Gostei",
+                        "date": "2023-09-12T16:43:00.000Z"
+                    },
+                    {
+                        "id": "088aa9cd-63d0-4e37-b574-26087522da74",
+                        "user": {
+                            "id": "c5b5ca56-2855-4350-b366-33feb0d69d0c",
+                            "name": "Mariana Malta",
+                            "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80"
+                        },
+                        "note": 4,
+                        "comment": "A Jess é sempre maravilhosa, minhas unhas ficaram impecáveis",
+                        "date": "2023-09-15T11:21:00.000Z"
+                    }
+                ]
+            }
         }
     ]
 }
