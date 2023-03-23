@@ -79,9 +79,8 @@
                     "price": 135
                 }
             ],
-            "ratings": [
+            "rating": [
                 {
-                    "professionalId": "a63c04f1-9427-407e-a879-e4755d4146d5",
                     "note": 4.4,
                     "amount": 129,
                     "assessments": [
